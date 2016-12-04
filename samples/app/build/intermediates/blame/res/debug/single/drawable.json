@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vuforia_splash.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\vuforia_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_close_pressed.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\button_close_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scanline.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\scanline.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_plus_pressed.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\icon_plus_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_camera_pressed.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\icon_camera_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_01.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\icon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_button_background.xml",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\camera_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_02.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\icon_02.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_plus_normal.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\icon_plus_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button_background.xml",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\close_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_info.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\card_info.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reticle.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg70.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\bg70.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_03.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\icon_03.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\box.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\box.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_bg.xml",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\round_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_close_normal.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\button_close_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_target_button_background.xml",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\new_target_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_bull.jpg",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\red_bull.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apple.jpg",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\apple.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg00.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\bg00.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_camera_normal.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable\\icon_camera_normal.png"
+    }
+]

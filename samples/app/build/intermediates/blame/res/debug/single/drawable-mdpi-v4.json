@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_cancel_black_24dp.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable-mdpi\\ic_cancel_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\logo.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_shopping_cart_black_24dp.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable-mdpi\\ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    }
+]

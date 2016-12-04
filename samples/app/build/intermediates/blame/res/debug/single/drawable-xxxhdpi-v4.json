@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_cancel_black_24dp.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cancel_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_shopping_cart_black_24dp.png",
+        "source": "C:\\Users\\jo333\\AppData\\Local\\Android\\vuforia-sdk-android-6-1-17\\samples\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_shopping_cart_black_24dp.png"
+    }
+]
