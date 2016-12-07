@@ -1,6 +1,7 @@
 # WeShop:  You Augmented Reality Shopping Assistant
 
 This project was made as part of the December 2016 Cal AR Hackathon
+WeShop is a prototype AR assistant intended run on an Android device placed on the inside of a shopping cart's basket, looking down. Upon being uploaded to an Android device, this app can detect from a set of previously scanned items, and add or remove them from your shopping cart balance as you a place them inside or outside the shopping cart respectively.
 
 ## Requirements
 1. An installation of Android SDK (It comes with Android studio).
