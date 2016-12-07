@@ -20,11 +20,9 @@ You can see the full list of changes in differences.diff
 ## Usage
 We provided multiple ways of running/modifying the app:
 ### A. Run the precompiled APK
-You can run the project using the pre-compiled weshop.apk at the root directory.
-To do this:
 1. In Android 4.0 or higher, go to Settings, scroll down to Security, and select Unknown sources. Selecting this option will allow you to install apps outside of the Google Play store.
-2a. Then simply visit this site from your android device, download the .apk and run it.
-2b. You can alternatively download the .apk to a computer, and use ADB to push it to your Android device using a USB cable (see https://developer.android.com/studio/command-line/adb.html#move) 
+2. a)Then simply visit this site from your android device, download the weshop.apk and run it.
+2. b)You can alternatively download the .apk to a computer, and use ADB to push it to your Android device using a USB cable (see https://developer.android.com/studio/command-line/adb.html#move) 
 
 ### B. Clone files
 1. Run: git clone https://github.com/Vyz333/ARCart/
